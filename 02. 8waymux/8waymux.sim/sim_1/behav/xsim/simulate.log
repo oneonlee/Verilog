@@ -1,0 +1,18 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+S[2] = 0, S[1] = 0, S[0] = 0, OUTPUT = 0 
+
+S[2] = 0, S[1] = 0, S[0] = 1, OUTPUT = 1 
+
+S[2] = 0, S[1] = 1, S[0] = 0, OUTPUT = 0 
+
+S[2] = 0, S[1] = 1, S[0] = 1, OUTPUT = 1 
+
+S[2] = 1, S[1] = 0, S[0] = 0, OUTPUT = 0 
+
+S[2] = 1, S[1] = 0, S[0] = 1, OUTPUT = 1 
+
+S[2] = 1, S[1] = 1, S[0] = 0, OUTPUT = 0 
+
+S[2] = 1, S[1] = 1, S[0] = 1, OUTPUT = 1 
+
